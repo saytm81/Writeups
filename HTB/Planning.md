@@ -168,14 +168,15 @@ cat /tmp/flag
 ---
 
 ## 8. Post-Explotación
-📌 Acciones posibles tras obtener acceso como root:
 
-✅ Establecer persistencia
-👤 Crear usuario oculto
-🔐 Añadir clave pública SSH
-📦 Exfiltrar información sensible
-🌐 Explorar red interna
-🔀 Pivoting hacia otras máquinas
-🧹 Eliminar huellas
-💣 Destruir el sistema (⚠️ no recomendado)
+📌 Acciones posibles tras obtener acceso como **root**:
+
+- ✅ Establecer persistencia
+- 👤 Crear usuario oculto
+- 🔐 Añadir clave pública SSH
+- 📦 Exfiltrar información sensible
+- 🌐 Explorar red interna
+- 🔀 Pivoting hacia otras máquinas
+- 🧹 Eliminar huellas
+- 💣 Destruir el sistema (⚠️ no recomendado)
 ---
