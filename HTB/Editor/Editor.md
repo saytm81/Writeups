@@ -1,12 +1,9 @@
----
-
 # Writeup — HackTheBox: **Editor**
 
 **Target:** `editor.htb` (10.10.11.80)
 **Autor:** *tu\_nombre*
-**Fecha:** YYYY-MM-DD
+**Fecha:** 2025-09-18
 
----
 
 ## Resumen
 
